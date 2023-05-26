@@ -1,0 +1,9 @@
+name: jump
+version: 1
+main: org.jump1.Jump1
+api-version: 1.16
+authors: [tir0707]
+description: jomp on becone
+commands:
+  jumph: {}
+  launch: {}
